@@ -9,9 +9,7 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-teal.vercel.app/api?username=Basma-Mohamed-Nagib&show_icons=true&theme=radical&hide_border=true" alt="Basma's GitHub Stats" />
-</div>
+
 <!--
 **Basma-Mohamed-Nagib/Basma-Mohamed-Nagib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
