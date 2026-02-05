@@ -8,6 +8,10 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Basma-Mohamed-Nagib/Basma-Mohamed-Nagib/output/github-snake.svg" />
   </picture>
 </div>
+
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Basma-Mohamed-Nagib&show_icons=true&theme=radical&hide_border=true" alt="Basma's GitHub Stats" width="48%" />
 <!--
 **Basma-Mohamed-Nagib/Basma-Mohamed-Nagib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
